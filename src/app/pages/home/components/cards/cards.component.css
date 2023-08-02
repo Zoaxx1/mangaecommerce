@@ -1,0 +1,23 @@
+.mb-n1 {
+    margin-bottom: 0.6rem !important;
+}
+
+.p-0 {
+    padding: 1px !important;
+}
+
+.border-radius {
+    border-radius: 0%;
+}
+
+.border-color{
+    border-color: #414244;
+}
+
+.position-card {
+    position:absolute;
+    bottom: 1px;
+    width: 99%;
+    padding: 4%;
+    background-color: #838796af;
+}
