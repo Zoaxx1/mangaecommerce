@@ -1,0 +1,6 @@
+[submodule "mangas"]
+	path = mangas
+	url = https://github.com/Zoaxx1/manga.git
+[submodule "manga"]
+	path = manga
+	url = https://github.com/Zoaxx1/mangaecommerce.git
